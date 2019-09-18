@@ -4,7 +4,7 @@ openareas <- read.table("C:/Users/Usuário/Desktop/dados/aberto.txt", header =TR
 
 closedareas <- read.table("C:/Users/Usuário/Desktop/dados/fechado.txt", header =TRUE)
 
-allareas <- read.table("C:/Users/Usuário/Desktop/dados/allareas.txt", header =TRUE)
+allareas <- read.table("C:/Users/Usuário/Desktop/dados/total.txt", header =TRUE)
 
 predationtotal <- read.table("C:/Users/Usuário/Desktop/dados/preddata.txt", header =TRUE)
 
